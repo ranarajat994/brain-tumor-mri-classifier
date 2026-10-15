@@ -2,7 +2,7 @@
 
 A CNN I built from scratch to look at a brain MRI scan and tell whether a tumor is present.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** [Try it here] https://brain-tumor-mri-classifier-vsopp3bsnxu9fjqwgvsca2.streamlit.app/
 
 ## Why I built it this way
 
