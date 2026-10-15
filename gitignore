@@ -1,0 +1,13 @@
+# virtual environment
+venv/
+
+# full dataset (too big for GitHub - download from Kaggle)
+data/
+
+# python cache
+__pycache__/
+*.pyc
+
+# zips and notebook checkpoints
+*.zip
+.ipynb_checkpoints/

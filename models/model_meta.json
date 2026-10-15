@@ -1,0 +1,13 @@
+{
+    "class_names": [
+        "no_tumor",
+        "tumor"
+    ],
+    "img_size": [
+        224,
+        224
+    ],
+    "color_mode": "rgb",
+    "threshold": 0.10178953409194946,
+    "positive_class": "tumor"
+}

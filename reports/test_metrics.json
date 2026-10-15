@@ -1,0 +1,15 @@
+{
+    "accuracy": 0.889375,
+    "tumor_precision": 0.9990243902439024,
+    "tumor_recall": 0.8533333333333334,
+    "tumor_f1": 0.9204494382022472,
+    "no_tumor_recall": 0.9975,
+    "roc_auc": 0.9776604166666667,
+    "confusion_matrix": {
+        "tn": 399,
+        "fp": 1,
+        "fn": 176,
+        "tp": 1024
+    },
+    "threshold": 0.5
+}
